@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class FiyatHesapla {// osman ,ahmet furkan
 
+
     // km fiyati=0.10$
     // cocuk %50 indirim
     // 12-24 yas %10
